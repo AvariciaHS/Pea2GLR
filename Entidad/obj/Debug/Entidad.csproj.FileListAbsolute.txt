@@ -1,0 +1,11 @@
+C:\Users\Star\Desktop\C#\Producto\Entidad\bin\Debug\Entidad.dll
+C:\Users\Star\Desktop\C#\Producto\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Star\Desktop\C#\Producto\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\C#\Producto\Entidad\obj\Debug\Entidad.dll
+C:\Users\Star\Desktop\C#\Producto\Entidad\obj\Debug\Entidad.pdb
+D:\pea2\pea2\Producto\Entidad\bin\Debug\Entidad.dll
+D:\pea2\pea2\Producto\Entidad\bin\Debug\Entidad.pdb
+D:\pea2\pea2\Producto\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+D:\pea2\pea2\Producto\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\pea2\pea2\Producto\Entidad\obj\Debug\Entidad.dll
+D:\pea2\pea2\Producto\Entidad\obj\Debug\Entidad.pdb

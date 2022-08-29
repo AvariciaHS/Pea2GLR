@@ -1,0 +1,16 @@
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\bin\Debug\Entidad.dll
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\bin\Debug\Entidad.pdb
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Star\Desktop\C#\Producto\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\pea2\pea2\Producto\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\pea2\pea2\Producto\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\pea2\pea2\Producto\AccesoDatos\bin\Debug\Entidad.dll
+D:\pea2\pea2\Producto\AccesoDatos\bin\Debug\Entidad.pdb
+D:\pea2\pea2\Producto\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+D:\pea2\pea2\Producto\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\pea2\pea2\Producto\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+D:\pea2\pea2\Producto\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\pea2\pea2\Producto\AccesoDatos\obj\Debug\AccesoDatos.pdb
